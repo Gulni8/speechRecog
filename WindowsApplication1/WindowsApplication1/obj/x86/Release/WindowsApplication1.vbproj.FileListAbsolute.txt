@@ -1,0 +1,12 @@
+c:\users\gulni\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+c:\users\gulni\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+c:\users\gulni\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+c:\users\gulni\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Release\AIMLbot.dll
+c:\users\gulni\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Release\AIMLbot.pdb
+c:\users\gulni\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\gulni\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+c:\users\gulni\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+c:\users\gulni\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\gulni\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+c:\users\gulni\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+c:\users\gulni\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb
